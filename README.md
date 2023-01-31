@@ -5,13 +5,13 @@ Just a simple Python code for this final project.
 
 For this final project, with the constraints given, I simulated a basic distance sensor that would be useful for the visually impaired. 
 Utilizing an ultrasonic sensor to measure distance of the area in front of the user, data would be sent through the raspberry pi and then displayed via 
-the LED display bar which was used for prototyping purposes. 
+the LCD display bar which was used for prototyping purposes. 
 
 If actually committed to expanding on, an external battery would make the project portable as intended. More haptic feature could be added such as speakers 
 or vibrating motors.
 
 # Class notes
-Class used the Adeept Ultimate starter kit (came with the used LED bar and sesnors, along with more electrical components such as resistors and jumpers.
+Class used the Adeept Ultimate starter kit (came with the used LCD bar and sesnors, along with more electrical components such as resistors and jumpers)
 A Raspberry Pi 3 Model B+ was used to program and run this project.
 
 # Images
