@@ -13,3 +13,8 @@ or vibrating motors.
 # Class notes
 Class used the Adeept Ultimate starter kit (came with the used LED bar and sesnors, along with more electrical components such as resistors and jumpers.
 A Raspberry Pi 3 Model B+ was used to program and run this project.
+
+# Images
+
+![final_proj_image](https://user-images.githubusercontent.com/123530297/215636697-abc6bcbb-ebf7-46c7-9d1a-06787812926b.png)
+
