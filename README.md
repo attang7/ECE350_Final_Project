@@ -1,4 +1,4 @@
-# ECE350_Final_Project
+# ECE350 Final Project
 Python Code for distance sensor project
 
 Just a simple Python code for this final project.
@@ -9,3 +9,7 @@ the LED display bar which was used for prototyping purposes.
 
 If actually committed to expanding on, an external battery would make the project portable as intended. More haptic feature could be added such as speakers 
 or vibrating motors.
+
+# Class notes
+Class used the Adeept Ultimate starter kit (came with the used LED bar and sesnors, along with more electrical components such as resistors and jumpers.
+A Raspberry Pi 3 Model B+ was used to program and run this project.
